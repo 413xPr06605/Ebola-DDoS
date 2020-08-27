@@ -32,7 +32,7 @@ python3 ebola.py
 
 If You Run On Windows , Just Download And Install Python3 Here -> https://www.python.org/ftp/python/3.8.5/Python-3.8.5.tar.xz
 
-After Python Installed, Download This Tool As ZIP File
+After Python3 Installed, Download This Tool As ZIP File
 
 When Download Complete, Extract ZIP File 
 
