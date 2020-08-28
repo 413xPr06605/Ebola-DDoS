@@ -6,8 +6,10 @@
        3   ░░ ▒░ ░░▒▓███▀▒░ ▒░▒░▒░ ░ ▒░▓  ░▒▒   ▓▒█░  [+] Add Brute Mode From V1.2.5
             ░ ░  ░▒░▒   ░   ░ ▒ ▒░ ░ ░ ▒  ░ ▒   ▒▒ ░  [+] Add POST Header Origin From V1.2.0
                ░    ░    ░ ░ ░ ░ ▒    ░ ░    ░   ▒    [+] Global Virus Map Supported,
-              ░  ░ ░      ░   ░ ░      ░  ░     ░  ░       
-                          ░                           
+              ░  ░ ░      ░   ░ ░      ░  ░     ░  ░  
+                          ░                           [+] Threads Optimization         
+                                                      [+] Request Package Optimization 
+                                                      From 1.3.0 Update :D
 
 # Ebola-DDoS
 
